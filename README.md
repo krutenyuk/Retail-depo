@@ -1,3 +1,5 @@
 # PR
 
-Repository for Homework assigments
+Analysys of Retail deposits behavior depending on Macroeconomic factors
+
+Main code in Data model
