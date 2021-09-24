@@ -1,4 +1,4 @@
-# PR
+# Retail-depo
 
 Analysys of Retail deposits behavior depending on Macroeconomic factors
 
